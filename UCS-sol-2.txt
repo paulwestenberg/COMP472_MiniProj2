@@ -1,0 +1,24 @@
+UCS - Puzzle #2
+Initial board configuration: BBICCLG.IJKLGAAJKMGHDDDM.H.....FF...
+B B I C C L 
+G . I J K L 
+G A A J K M 
+G H D D D M 
+. H . . . . 
+. F F . . . 
+
+Car Fuel available: B:100, I:100, C:100, L:100, G:100, J:100, K:100, A:100, M:100, H:100, D:100, F:100
+
+Solution: 
+Runtime: 0:02:00.146560
+Search Path Length: 5655
+Solution Path Length: 14 moves
+Solution Path: G down 2; A left 1; M down 2; D right 1; F right 2; I down 4; B right 1; A right 1; G up 3; H down 1; D left 3; J down 2; K down 2; A right 3; 
+
+Final Look:
+G B B C C L 
+G . . . . L 
+G . . . A A 
+D D D J K . 
+. H I J K M 
+. H I F F M 
