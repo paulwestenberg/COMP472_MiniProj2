@@ -10,5 +10,5 @@ G F F F . .
 Car Fuel available: B:0, C:3
 
 Solution: 
-Runtime: 0:00:00.000934
+Runtime: 0:00:00.000325
 No Solution - Impossible Puzzle

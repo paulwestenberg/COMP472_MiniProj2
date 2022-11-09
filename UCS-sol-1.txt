@@ -10,10 +10,15 @@ F F J . . M
 Car Fuel available: C:100, D:100, K:100, L:100, I:100, A:100, J:100, E:100, M:100, F:100, G:100
 
 Solution: 
-Runtime: 0:00:00.314393
+Runtime: 0:00:00.367642
 Search Path Length: 243
 Solution Path Length: 4 moves
 Solution Path: C left 2; K up 1; L up 1; A right 3; 
+
+C left 2  		98 .CC...DD.K.LIAAK.LI.JEEMFFJ..M.GGG..
+K up 1  		99 .CCK..DD.K.LIAA..LI.JEEMFFJ..M.GGG..
+L up 1  		99 .CCK.LDD.K.LIAA...I.JEEMFFJ..M.GGG..
+A right 3  		97 .CCK.LDD.K.LI...AAI.JEEMFFJ..M.GGG..
 
 Final Look:
 . C C K . L 

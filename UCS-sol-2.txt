@@ -10,10 +10,25 @@ G H D D D M
 Car Fuel available: B:100, I:100, C:100, L:100, G:100, J:100, K:100, A:100, M:100, H:100, D:100, F:100
 
 Solution: 
-Runtime: 0:02:00.146560
+Runtime: 0:02:04.636259
 Search Path Length: 5655
 Solution Path Length: 14 moves
 Solution Path: G down 2; A left 1; M down 2; D right 1; F right 2; I down 4; B right 1; A right 1; G up 3; H down 1; D left 3; J down 2; K down 2; A right 3; 
+
+G down 2  		98 BBICCL..IJKL.AAJKMGHDDDMGH....GFF...
+A left 1  		99 BBICCL..IJKLAA.JKMGHDDDMGH....GFF...
+M down 2  		98 BBICCL..IJKLAA.JK.GHDDD.GH...MGFF..M
+D right 1  		99 BBICCL..IJKLAA.JK.GH.DDDGH...MGFF..M
+F right 2  		98 BBICCL..IJKLAA.JK.GH.DDDGH...MG..FFM
+I down 4  		96 BB.CCL...JKLAA.JK.GH.DDDGHI..MG.IFFM
+B right 1  		99 .BBCCL...JKLAA.JK.GH.DDDGHI..MG.IFFM
+A right 1  		98 .BBCCL...JKL.AAJK.GH.DDDGHI..MG.IFFM
+G up 3  		95 GBBCCLG..JKLGAAJK..H.DDD.HI..M..IFFM
+H down 1  		99 GBBCCLG..JKLGAAJK....DDD.HI..M.HIFFM
+D left 3  		96 GBBCCLG..JKLGAAJK.DDD....HI..M.HIFFM
+J down 2  		98 GBBCCLG...KLGAA.K.DDDJ...HIJ.M.HIFFM
+K down 2  		98 GBBCCLG....LGAA...DDDJK..HIJKM.HIFFM
+A right 3  		95 GBBCCLG....LG...AADDDJK..HIJKM.HIFFM
 
 Final Look:
 G B B C C L 
