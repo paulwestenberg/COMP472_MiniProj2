@@ -1,15 +1,56 @@
 UCS - Puzzle #3 - Solution
-Initial board configuration: BBB..K..H..K..HAAKCCIJDDG.IJEEGFFF.. B0 C3
+Initial board configuration: BBCCK...I.KL..IAALEEIJ.LH..JFFHGGG..
 
-B B B . . K 
-. . H . . K 
-. . H A A K 
-C C I J D D 
-G . I J E E 
-G F F F . . 
+B B C C K . 
+. . I . K L 
+. . I A A L 
+E E I J . L 
+H . . J F F 
+H G G G . . 
 
-Car Fuel available: B:0, C:3, K:100, H:100, A:100, I:100, J:100, D:100, G:100, E:100, F:100
+Car Fuel available: B:100, C:100, K:100, I:100, L:100, A:100, E:100, J:100, H:100, F:100, G:100
 
 Solution: 
-Runtime: 0:00:00.023267
-No Solution - Impossible Puzzle
+Runtime: 0:08:19.050470
+Search Path Length: 8047
+Solution Path Length: 30 moves
+Solution Path: L up 1; G right 2; I down 2; A left 3; K down 1; C right 1; I up 3; J up 2; E right 4; I down 3; B right 1; A right 1; H up 4; A left 1; I up 2; F left 4; I down 2; A right 1; J down 2; H down 1; B left 1; C left 1; K up 1; A right 2; I up 1; G left 3; J down 1; E left 1; L down 3; A right 1; 
+
+L up 1  		99 BBCCKL..I.KL..IAALEEIJ..H..JFFHGGG..
+G right 2  		98 BBCCKL..I.KL..IAALEEIJ..H..JFFH..GGG
+I down 2  		98 BBCCKL....KL...AALEEIJ..H.IJFFH.IGGG
+A left 3  		97 BBCCKL....KLAA...LEEIJ..H.IJFFH.IGGG
+K down 1  		99 BBCC.L....KLAA..KLEEIJ..H.IJFFH.IGGG
+C right 1  		99 BB.CCL....KLAA..KLEEIJ..H.IJFFH.IGGG
+I up 3  		95 BBICCL..I.KLAAI.KLEE.J..H..JFFH..GGG
+J up 2  		98 BBICCL..IJKLAAIJKLEE....H...FFH..GGG
+E right 4  		96 BBICCL..IJKLAAIJKL....EEH...FFH..GGG
+I down 3  		92 BB.CCL...JKLAA.JKL..I.EEH.I.FFH.IGGG
+B right 1  		99 .BBCCL...JKLAA.JKL..I.EEH.I.FFH.IGGG
+A right 1  		96 .BBCCL...JKL.AAJKL..I.EEH.I.FFH.IGGG
+H up 4  		96 HBBCCLH..JKL.AAJKL..I.EE..I.FF..IGGG
+A left 1  		95 HBBCCLH..JKLAA.JKL..I.EE..I.FF..IGGG
+I up 2  		90 HBBCCLH.IJKLAAIJKL..I.EE....FF...GGG
+F left 4  		96 HBBCCLH.IJKLAAIJKL..I.EEFF.......GGG
+I down 2  		88 HBBCCLH..JKLAA.JKL..I.EEFFI.....IGGG
+A right 1  		94 HBBCCLH..JKL.AAJKL..I.EEFFI.....IGGG
+J down 2  		96 HBBCCLH...KL.AA.KL..IJEEFFIJ....IGGG
+H down 1  		95 .BBCCLH...KLHAA.KL..IJEEFFIJ....IGGG
+B left 1  		98 BB.CCLH...KLHAA.KL..IJEEFFIJ....IGGG
+C left 1  		98 BBCC.LH...KLHAA.KL..IJEEFFIJ....IGGG
+K up 1  		98 BBCCKLH...KLHAA..L..IJEEFFIJ....IGGG
+A right 2  		92 BBCCKLH...KLH..AAL..IJEEFFIJ....IGGG
+I up 1  		87 BBCCKLH...KLH.IAAL..IJEEFFIJ.....GGG
+G left 3  		95 BBCCKLH...KLH.IAAL..IJEEFFIJ..GGG...
+J down 1  		95 BBCCKLH...KLH.IAAL..I.EEFFIJ..GGGJ..
+E left 1  		95 BBCCKLH...KLH.IAAL..IEE.FFIJ..GGGJ..
+L down 3  		96 BBCCK.H...K.H.IAA...IEELFFIJ.LGGGJ.L
+A right 1  		91 BBCCK.H...K.H.I.AA..IEELFFIJ.LGGGJ.L
+
+Final Look:
+B B C C K . 
+H . . . K . 
+H . I . A A 
+. . I E E L 
+F F I J . L 
+G G G J . L 
