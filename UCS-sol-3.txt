@@ -1,5 +1,6 @@
-UCS - Puzzle #3
+UCS - Puzzle #3 - Solution
 Initial board configuration: BBB..K..H..K..HAAKCCIJDDG.IJEEGFFF.. B0 C3
+
 B B B . . K 
 . . H . . K 
 . . H A A K 
@@ -7,8 +8,8 @@ C C I J D D
 G . I J E E 
 G F F F . . 
 
-Car Fuel available: B:0, C:3
+Car Fuel available: B:0, C:3, K:100, H:100, A:100, I:100, J:100, D:100, G:100, E:100, F:100
 
 Solution: 
-Runtime: 0:00:00.000325
+Runtime: 0:00:00.023267
 No Solution - Impossible Puzzle
