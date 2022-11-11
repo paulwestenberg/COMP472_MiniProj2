@@ -1,30 +1,28 @@
 UCS - Puzzle #1 - Solution
-Initial board configuration: ...CC.DD.K.LIAAK.LI.JEEMFFJ..M.GGG..
+Initial board configuration: BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
 
-. . . C C . 
-D D . K . L 
-I A A K . L 
-I . J E E M 
-F F J . . M 
-. G G G . . 
+B B I J . . 
+. . I J C C 
+. . I A A M 
+G D D K . M 
+G H . K L . 
+G H F F L . 
 
-Car Fuel available: C:100, D:100, K:100, L:100, I:100, A:100, J:100, E:100, M:100, F:100, G:100
+Car Fuel available: B:100, I:100, J:100, C:100, A:100, M:100, G:100, D:100, K:100, H:100, L:100, F:100
 
 Solution: 
-Runtime: 0:00:00.471374
-Search Path Length: 243
-Solution Path Length: 4 moves
-Solution Path: C left 2; K up 1; L up 1; A right 3; 
+Runtime: 0:00:00.005620
+Search Path Length: 7
+Solution Path Length: 2 moves
+Solution Path: M down 1; A right 1; 
 
-C left 2  		98 .CC...DD.K.LIAAK.LI.JEEMFFJ..M.GGG..
-K up 1  		99 .CCK..DD.K.LIAA..LI.JEEMFFJ..M.GGG..
-L up 1  		99 .CCK.LDD.K.LIAA...I.JEEMFFJ..M.GGG..
-A right 3  		97 .CCK.LDD.K.LI...AAI.JEEMFFJ..M.GGG..
+M down 1  		99 BBIJ....IJCC..IAA.GDDK.MGH.KLMGHFFL.
+A right 1  		99 BBIJ....IJCC..I.AAGDDK.MGH.KLMGHFFL.
 
 Final Look:
-. C C K . L 
-D D . K . L 
-I . . . A A 
-I . J E E M 
-F F J . . M 
-. G G G . . 
+B B I J . . 
+. . I J C C 
+. . I . A A 
+G D D K . M 
+G H . K L M 
+G H F F L . 

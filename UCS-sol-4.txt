@@ -1,15 +1,15 @@
 UCS - Puzzle #4 - Solution
-Initial board configuration: BBB..K..H..K..HAAKCCIJDDG.IJEEGFFF.. B0 C3
+Initial board configuration: BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
 
-B B B . . K 
-. . H . . K 
-. . H A A K 
-C C I J D D 
-G . I J E E 
-G F F F . . 
+B B B . . M 
+C C D D . M 
+A A K L . M 
+J . K L E E 
+J . G G . . 
+J H H H I I 
 
-Car Fuel available: B:0, C:3, K:100, H:100, A:100, I:100, J:100, D:100, G:100, E:100, F:100
+Car Fuel available: J:0, B:4, M:100, C:100, D:100, A:100, K:100, L:100, E:100, G:100, H:100, I:100
 
 Solution: 
-Runtime: 0:00:00.020658
+Runtime: 0:00:00.788545
 No Solution - Impossible Puzzle

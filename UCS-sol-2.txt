@@ -1,40 +1,36 @@
 UCS - Puzzle #2 - Solution
-Initial board configuration: BBICCLG.IJKLGAAJKMGHDDDM.H.....FF...
+Initial board configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
 
-B B I C C L 
-G . I J K L 
-G A A J K M 
-G H D D D M 
-. H . . . . 
-. F F . . . 
+. . I . . . 
+B B I . K . 
+G H A A K L 
+G H D D K L 
+G . . J E E 
+F F . J . . 
 
-Car Fuel available: B:100, I:100, C:100, L:100, G:100, J:100, K:100, A:100, M:100, H:100, D:100, F:100
+Car Fuel available: I:100, B:100, K:100, G:100, H:100, A:100, L:100, D:100, J:100, E:100, F:100
 
 Solution: 
-Runtime: 0:02:41.420651
-Search Path Length: 5086
-Solution Path Length: 14 moves
-Solution Path: G down 2; A left 1; M down 2; D right 1; F right 2; I down 4; B right 1; A right 1; G up 3; H down 1; D left 3; J down 2; K down 2; A right 3; 
+Runtime: 0:00:16.230720
+Search Path Length: 1836
+Solution Path Length: 10 moves
+Solution Path: K up 1; H down 1; A left 1; L up 2; D right 2; J up 4; D left 2; E left 2; K down 3; A right 3; 
 
-G down 2  		98 BBICCL..IJKL.AAJKMGHDDDMGH....GFF...
-A left 1  		99 BBICCL..IJKLAA.JKMGHDDDMGH....GFF...
-M down 2  		98 BBICCL..IJKLAA.JK.GHDDD.GH...MGFF..M
-D right 1  		99 BBICCL..IJKLAA.JK.GH.DDDGH...MGFF..M
-F right 2  		98 BBICCL..IJKLAA.JK.GH.DDDGH...MG..FFM
-I down 4  		96 BB.CCL...JKLAA.JK.GH.DDDGHI..MG.IFFM
-B right 1  		99 .BBCCL...JKLAA.JK.GH.DDDGHI..MG.IFFM
-A right 1  		98 .BBCCL...JKL.AAJK.GH.DDDGHI..MG.IFFM
-G up 3  		95 GBBCCLG..JKLGAAJK..H.DDD.HI..M..IFFM
-H down 1  		99 GBBCCLG..JKLGAAJK....DDD.HI..M.HIFFM
-D left 3  		96 GBBCCLG..JKLGAAJK.DDD....HI..M.HIFFM
-J down 2  		98 GBBCCLG...KLGAA.K.DDDJ...HIJ.M.HIFFM
-K down 2  		98 GBBCCLG....LGAA...DDDJK..HIJKM.HIFFM
-A right 3  		95 GBBCCLG....LG...AADDDJK..HIJKM.HIFFM
+K up 1  		99 ..I.K.BBI.K.GHAAKLGHDD.LG..JEEFF.J..
+H down 1  		99 ..I.K.BBI.K.G.AAKLGHDD.LGH.JEEFF.J..
+A left 1  		99 ..I.K.BBI.K.GAA.KLGHDD.LGH.JEEFF.J..
+L up 2  		98 ..I.KLBBI.KLGAA.K.GHDD..GH.JEEFF.J..
+D right 2  		98 ..I.KLBBI.KLGAA.K.GH..DDGH.JEEFF.J..
+J up 4  		96 ..IJKLBBIJKLGAA.K.GH..DDGH..EEFF....
+D left 2  		96 ..IJKLBBIJKLGAA.K.GHDD..GH..EEFF....
+E left 2  		98 ..IJKLBBIJKLGAA.K.GHDD..GHEE..FF....
+K down 3  		96 ..IJ.LBBIJ.LGAA...GHDDK.GHEEK.FF..K.
+A right 3  		96 ..IJ.LBBIJ.LG...AAGHDDK.GHEEK.FF..K.
 
 Final Look:
-G B B C C L 
-G . . . . L 
+. . I J . L 
+B B I J . L 
 G . . . A A 
-D D D J K . 
-. H I J K M 
-. H I F F M 
+G H D D K . 
+G H E E K . 
+F F . . K . 
