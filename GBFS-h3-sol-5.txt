@@ -11,5 +11,5 @@ E E K . L .
 Car Fuel available: F:0, G:6, I:100, J:100, B:100, C:100, D:100, L:100, A:100, E:100, K:100, H:100
 
 Solution: 
-Runtime: 0:00:02.903406
+Runtime: 0:00:03.570423
 No Solution - Impossible Puzzle
