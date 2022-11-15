@@ -1,4 +1,4 @@
-UCS - Puzzle #2 - Solution
+GBFS - h3 - Puzzle #2 - Solution
 Initial board configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
 
 . . I . . . 
@@ -11,15 +11,15 @@ F F . J . .
 Car Fuel available: I:100, B:100, K:100, G:100, H:100, A:100, L:100, D:100, J:100, E:100, F:100
 
 Solution: 
-Runtime: 0:00:14.350273
-Search Path Length: 1836
+Runtime: 0:00:00.815031
+Search Path Length: 113
 Solution Path Length: 10 moves
-Solution Path: K up 1; H down 1; A left 1; L up 2; D right 2; J up 4; D left 2; E left 2; K down 3; A right 3; 
+Solution Path: L up 2; K up 1; H down 1; A left 1; D right 2; J up 4; D left 2; E left 2; K down 3; A right 3; 
 
-K up 1  		99 ..I.K.BBI.K.GHAAKLGHDD.LG..JEEFF.J..
-H down 1  		99 ..I.K.BBI.K.G.AAKLGHDD.LGH.JEEFF.J..
-A left 1  		99 ..I.K.BBI.K.GAA.KLGHDD.LGH.JEEFF.J..
-L up 2  		98 ..I.KLBBI.KLGAA.K.GHDD..GH.JEEFF.J..
+L up 2  		98 ..I..LBBI.KLGHAAK.GHDDK.G..JEEFF.J..
+K up 1  		99 ..I.KLBBI.KLGHAAK.GHDD..G..JEEFF.J..
+H down 1  		99 ..I.KLBBI.KLG.AAK.GHDD..GH.JEEFF.J..
+A left 1  		99 ..I.KLBBI.KLGAA.K.GHDD..GH.JEEFF.J..
 D right 2  		98 ..I.KLBBI.KLGAA.K.GH..DDGH.JEEFF.J..
 J up 4  		96 ..IJKLBBIJKLGAA.K.GH..DDGH..EEFF....
 D left 2  		96 ..IJKLBBIJKLGAA.K.GHDD..GH..EEFF....

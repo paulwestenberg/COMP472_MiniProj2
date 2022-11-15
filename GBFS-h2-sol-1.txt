@@ -1,4 +1,4 @@
-UCS - Puzzle #1 - Solution
+GBFS - h2 - Puzzle #1 - Solution
 Initial board configuration: BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
 
 B B I J . . 
@@ -11,8 +11,8 @@ G H F F L .
 Car Fuel available: B:100, I:100, J:100, C:100, A:100, M:100, G:100, D:100, K:100, H:100, L:100, F:100
 
 Solution: 
-Runtime: 0:00:00.005177
-Search Path Length: 7
+Runtime: 0:00:00.005387
+Search Path Length: 2
 Solution Path Length: 2 moves
 Solution Path: M down 1; A right 1; 
 

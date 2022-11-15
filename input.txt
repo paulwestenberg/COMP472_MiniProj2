@@ -1,15 +1,17 @@
 #
 # Demo 1
 #
-# demo 1.1
+# demo 1.1 - 2 moves
 BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
-# demo 1.2
+# to remove later, to check if horizontal exit
+#BB.....PP...AAMMC.....C.NNN.C.......
+# demo 1.2 - 10 moves
 ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
-# demo 1.3
+# demo 1.3 - 17 moves
 JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH... 
-# demo 1.4
+# demo 1.4 - Impossible
 BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
-# demo 1.5
+# demo 1.5 - Impossible
 IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
-# demo 1.6
+# demo 1.6 - 32 moves
 BB.G.HE..G.HEAAG.I..FCCIDDF..I..F... 
