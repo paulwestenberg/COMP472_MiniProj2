@@ -1,0 +1,100 @@
+# puzzle 1 - 8 moves
+BB...LM..N.LMAAN.LM..N..C...DDC.OOO.
+# puzzle 2 - 8 moves
+B..LLLB..C.MAA.CDMNNN.DM..E.FFGGEHH.
+# puzzle 3 - 14 moves
+.............AAL...BBL.M.C.L.M.CDD.M
+# puzzle 4 - 9 moves
+L..M..L..M..LAAM....BNNN..B..C..OOOC
+# puzzle 5 - 9 moves
+BB.L.CM..LNCMAALNHMOOONHE...FFE...GG
+# puzzle 6 - 9 moves
+BB.C..DD.CLM.AANLMEEFNLMG.FN..G..OOO
+# puzzle 7 - 13 moves
+.BCCDE.B.FDE.AAF.G..HH.G...I.....I..
+# puzzle 8 - 12 moves
+...BBL..CCDLAAEFDLGGEFHHIIJMMMKKJNNN
+# puzzle 9 - 12 moves
+.BCCDD.B.EFFAA.ELGMNNNLGM.H.LIM.H..I
+# puzzle 10 - 17 moves
+BBC.DDEEC..LMAA..LMNNN.LM..FGGHH.FII
+# puzzle 11 - 25 moves
+LBBM..L..M..LAAM....CNNN..C..F..OOOF
+# puzzle 12 - 17 moves
+BCC..LB.M..LAAM..L..MNNN....D.OOO.D.
+# puzzle 13 - 16 moves
+BBCCD...E.DL.FEAALMF.GGLM..HIIMJJHKK
+# puzzle 14 - 17 moves
+BBC.....C.DDEFAAGHEFIIGH..P.JJKKP...
+# puzzle 15 - 23 moves
+.BBCC.DDEELMNOAALMNOFGLMNOFGHH.IIJJ.
+# puzzle 16 - 21 moves
+BBCCDLE.FFDLEGMAAL.GMNNN..M...HH....
+# puzzle 17 - 24 moves
+BLLL..B.CCDDAAE...FFEM..NNNMGHOOOMGH
+# puzzle 18 - 25 moves
+BBCL..DDCL..MAAL..MNNN..MEE...OOO...
+# puzzle 19 - 22 moves
+..BCC...B.J..EAAJ..EFFG..LLLG.......
+# puzzle 20 - 10 moves
+B..LLLBCCD..AAED.M..E..M..FGGM..FNNN
+# puzzle 21 - 21 moves
+BBCL..M.CL..MAAL..MNNN...........OOO
+# puzzle 22 - 26 moves
+..BLLLC.BMDDCAAM...E.MFFGEHH.IGNNN.I
+# puzzle 23 - 29 moves
+..LLLM..BCCM..BAAM..DEFF..DEGG..NNN.
+# puzzle 24 - 25 moves
+..BCC..DB...EDAAF.EGG.F.LLL.H.II..H.
+# puzzle 25 - 27 moves
+BBC.DDEEC..LMAA.FLMNNNFLMG.HII.G.HJJ
+# puzzle 26 - 28 moves
+.B.LLLCB.DM.CAADMEFOOOMEF.G..H..GIIH
+# puzzle 27 - 28 moves
+BCCL..BDDL..AAEL.M..EFFM..G..M..GOOO
+# puzzle 28 - 30 moves
+LLLB....MBCCAAM...DEMFFNDEOOONGGHH.N
+# puzzle 29 - 31 moves
+LLL.M...B.M.AAB.MCDEEFFCDGGH.IOOOH.I
+# puzzle 30 - 32 moves
+L.BMMML.BC..LAAC..DDEE.N.....NFFGG.N
+# puzzle 31 - 37 moves
+BB.LLL...CDDEAAC.ME.NFFMGGN..M..NOOO
+# puzzle 32 - 37 moves
+BBLCDD..LC..AAL...EFFGGME..K.MII.K.M
+# puzzle 33 - 40 moves
+.BO.CC.BO...AAO...JEEFFMJGGHIMNNNHIM
+# puzzle 34 - 43 moves
+B..OOOB..C.MAA.CDMNNNEDM..FEGGJJFII.
+# puzzle 35 - 43 moves
+..LBBM..LC.MAALC.MKNNN..KEEFG.HH.FG.
+# puzzle 36 - 44 moves
+LMMMBBLCDD.NLCAA.NOOOE.N..FEGGHHF...
+# puzzle 37 - 47 moves
+BBC.DDEEC.LMNAA.LMNOOOLMN..FGGHH.FII
+# puzzle 38 - 48 moves
+B..LLLBCCD.OAAED.O..EFFO..GHHO..GNNN
+# puzzle 39 - 50 moves
+..BLLL..BC..AADC.OEEDFFOGHII.OGHJJ..
+# puzzle 40  - 51 moves
+LBB.C.LDE.CMLDEAAMNNNF.M..GFHHIIGJJ.
+# puzzle 41 - 2 moves
+BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
+# puzzle 42 - 10 moves
+..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
+# puzzle 43 - 17 moves
+JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH... 
+# puzzle 44 - Impossible
+BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
+# puzzle 45 - Impossible
+IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
+# puzzle 46 - 32 moves
+BB.G.HE..G.HEAAG.I..FCCIDDF..I..F... 
+# puzzle 47 - 5 moves
+.....L.....LAAMBBL..M.CC..M.........
+# puzzle 48 - 8 moves
+..L.....L...AAL...MMM..N.....N.....N
+# puzzle 49 - 11 moves
+..L.....L...AAL.......M..BCCM..B..M.
+# puzzle 50 - 1 move
+............AA......................

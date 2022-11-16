@@ -1,0 +1,39 @@
+A - h4 - Puzzle #2 - Solution
+Initial board configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
+
+. . I . . . 
+B B I . K . 
+G H A A K L 
+G H D D K L 
+G . . J E E 
+F F . J . . 
+
+Car Fuel available: I:100, B:100, K:100, G:100, H:100, A:100, L:100, D:100, J:100, E:100, F:100
+
+Solution: 
+Runtime: 0:00:01.033901
+Search Path Length: 148
+Solution Path Length: 13 moves
+Solution Path: K up 1; H down 1; L up 1; D right 2; A left 1; J up 4; A right 1; D left 2; E left 2; K down 3; A right 1; L up 1; A right 1; 
+
+K up 1  		99 ..I.K.BBI.K.GHAAKLGHDD.LG..JEEFF.J..
+H down 1  		99 ..I.K.BBI.K.G.AAKLGHDD.LGH.JEEFF.J..
+L up 1  		99 ..I.K.BBI.KLG.AAKLGHDD..GH.JEEFF.J..
+D right 2  		98 ..I.K.BBI.KLG.AAKLGH..DDGH.JEEFF.J..
+A left 1  		99 ..I.K.BBI.KLGAA.KLGH..DDGH.JEEFF.J..
+J up 4  		96 ..IJK.BBIJKLGAA.KLGH..DDGH..EEFF....
+A right 1  		98 ..IJK.BBIJKLG.AAKLGH..DDGH..EEFF....
+D left 2  		96 ..IJK.BBIJKLG.AAKLGHDD..GH..EEFF....
+E left 2  		98 ..IJK.BBIJKLG.AAKLGHDD..GHEE..FF....
+K down 3  		96 ..IJ..BBIJ.LG.AA.LGHDDK.GHEEK.FF..K.
+A right 1  		97 ..IJ..BBIJ.LG..AALGHDDK.GHEEK.FF..K.
+L up 1  		98 ..IJ.LBBIJ.LG..AA.GHDDK.GHEEK.FF..K.
+A right 1  		96 ..IJ.LBBIJ.LG...AAGHDDK.GHEEK.FF..K.
+
+Final Look:
+. . I J . L 
+B B I J . L 
+G . . . A A 
+G H D D K . 
+G H E E K . 
+F F . . K . 
