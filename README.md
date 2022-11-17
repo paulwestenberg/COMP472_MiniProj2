@@ -29,4 +29,4 @@ From there, clicking on our 472-Code.ipynb file will bring you to our code. The 
 - A h4 run
 
 In the folder you can also open our analysis file and slides to view how we analyzed our results.
-We hope you enjoy our code as much as we enjoyd writing it and solving this game :)
+We hope you enjoy our code as much as we enjoyed writing it and solving this game :)
